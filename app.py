@@ -48,7 +48,7 @@ if uploaded_file:
         return None, None, None
 
     # Classificação automática
-    extrato_df[['Tipo', 'Categoria', 'Subcategoria']] = extrato_df['Descrição'].apply(lambda d: pd.Series(classificar(d)))
+    extrato_df[['Tipo', 'Categoria', 'Subcategoria']] = extrato_df['Descricao'].apply(lambda d: pd.Series(classificar(d)))
 
     # Remover duplicados
     c.execute("SELECT Data, Valor, Descricao FROM lancamentos")
