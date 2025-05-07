@@ -32,7 +32,7 @@ if uploaded_file:
     extrato_df = pd.read_csv(uploaded_file)
 
     # Ajuste nos nomes das colunas
-    extrato_df.columns = ['Data', 'Valor', 'Identificador', 'Descrição']
+    extrato_df.columns = ['Data', 'Valor', 'Identificador', 'Descricao']
 
     st.write("Visualização dos dados:")
     st.dataframe(extrato_df)
