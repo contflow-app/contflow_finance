@@ -1,0 +1,29 @@
+Tipo,Categoria,Subcategoria
+Entrada,Receita,     Lucros Contflow
+Entrada,Receita,     Salário
+Entrada,Receita,     Outras Receitas
+Saída,Casa,     Gás
+Saída,Casa,     Alimentação
+Saída,Casa,     Aluguel
+Saída,Casa,     Luz
+Saída,Casa,     TV/internet
+Saída,Casa,     Telefonia
+Saída,Compras,     Compras Diversas
+Saída,Financeiras,     Cartão de Crédito
+Saída,Financeiras,     Empréstimos
+Saída,Financeiras,     Seguro de vida
+Saída,Financeiras,     Acordos
+Saída,Lazer,     Cinema
+Saída,Lazer,     Outras (Academia)
+Saída,Lazer,     Restaurante
+Saída,Lazer,     Shopping
+Saída,Outros Gastos,     Dízimos e Ofertas
+Saída,Outros Gastos,     Escola Isabela
+Saída,Outros Gastos,     Outras despesas
+Saída,Outros Gastos,     CRCSP
+Saída,Saúde,     Dentista
+Saída,Saúde,     Farmácia
+Saída,Saúde,     Hospital
+Saída,Veículo,     Combustível
+Saída,Veículo,     Documentos/IPVA
+Saída,Veículo,     Manutenção
